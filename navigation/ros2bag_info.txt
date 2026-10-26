@@ -1,0 +1,63 @@
+
+Files:             rosbag2_2026_10_25-10_32_50_0.db3
+Bag size:          2.4 GiB
+Storage id:        sqlite3
+Duration:          321.141648535s
+Start:             Oct 25 2026 10:32:50.661104780 (1792891970.661104780)
+End:               Oct 25 2026 10:38:11.802753315 (1792892291.802753315)
+Messages:          182115
+Topic information: Topic: /local_costmap/clearing_endpoints | Type: sensor_msgs/msg/PointCloud2 | Count: 1605 | Serialization Format: cdr
+                   Topic: /global_costmap/costmap | Type: nav_msgs/msg/OccupancyGrid | Count: 146 | Serialization Format: cdr
+                   Topic: /global_costmap/published_footprint | Type: geometry_msgs/msg/PolygonStamped | Count: 292 | Serialization Format: cdr
+                   Topic: /cmd_vel_nav | Type: geometry_msgs/msg/Twist | Count: 1315 | Serialization Format: cdr
+                   Topic: /bt_navigator/transition_event | Type: lifecycle_msgs/msg/TransitionEvent | Count: 2 | Serialization Format: cdr
+                   Topic: /evaluation | Type: dwb_msgs/msg/LocalPlanEvaluation | Count: 1305 | Serialization Format: cdr
+                   Topic: /velocity_smoother/transition_event | Type: lifecycle_msgs/msg/TransitionEvent | Count: 2 | Serialization Format: cdr
+                   Topic: /local_costmap/published_footprint | Type: geometry_msgs/msg/PolygonStamped | Count: 1605 | Serialization Format: cdr
+                   Topic: /transformed_global_plan | Type: nav_msgs/msg/Path | Count: 1305 | Serialization Format: cdr
+                   Topic: /marker | Type: visualization_msgs/msg/MarkerArray | Count: 1305 | Serialization Format: cdr
+                   Topic: /global_costmap/clearing_endpoints | Type: sensor_msgs/msg/PointCloud2 | Count: 292 | Serialization Format: cdr
+                   Topic: /local_costmap/voxel_grid | Type: nav2_msgs/msg/VoxelGrid | Count: 1606 | Serialization Format: cdr
+                   Topic: /global_costmap/costmap_updates | Type: map_msgs/msg/OccupancyGridUpdate | Count: 0 | Serialization Format: cdr
+                   Topic: /odom | Type: nav_msgs/msg/Odometry | Count: 9309 | Serialization Format: cdr
+                   Topic: /local_plan | Type: nav_msgs/msg/Path | Count: 1305 | Serialization Format: cdr
+                   Topic: /amcl_pose | Type: geometry_msgs/msg/PoseWithCovarianceStamped | Count: 149 | Serialization Format: cdr
+                   Topic: /amcl/transition_event | Type: lifecycle_msgs/msg/TransitionEvent | Count: 0 | Serialization Format: cdr
+                   Topic: /cost_cloud | Type: sensor_msgs/msg/PointCloud2 | Count: 0 | Serialization Format: cdr
+                   Topic: /plan | Type: nav_msgs/msg/Path | Count: 131 | Serialization Format: cdr
+                   Topic: /map | Type: nav_msgs/msg/OccupancyGrid | Count: 1 | Serialization Format: cdr
+                   Topic: /particle_cloud | Type: nav2_msgs/msg/ParticleCloud | Count: 149 | Serialization Format: cdr
+                   Topic: /parameter_events | Type: rcl_interfaces/msg/ParameterEvent | Count: 0 | Serialization Format: cdr
+                   Topic: /behavior_server/transition_event | Type: lifecycle_msgs/msg/TransitionEvent | Count: 2 | Serialization Format: cdr
+                   Topic: /waypoint_follower/transition_event | Type: lifecycle_msgs/msg/TransitionEvent | Count: 2 | Serialization Format: cdr
+                   Topic: /map_server/transition_event | Type: lifecycle_msgs/msg/TransitionEvent | Count: 0 | Serialization Format: cdr
+                   Topic: /planner_server/transition_event | Type: lifecycle_msgs/msg/TransitionEvent | Count: 1 | Serialization Format: cdr
+                   Topic: /behavior_tree_log | Type: nav2_msgs/msg/BehaviorTreeLog | Count: 3014 | Serialization Format: cdr
+                   Topic: /scan | Type: sensor_msgs/msg/LaserScan | Count: 1582 | Serialization Format: cdr
+                   Topic: /performance_metrics | Type: gazebo_msgs/msg/PerformanceMetrics | Count: 1601 | Serialization Format: cdr
+                   Topic: /smoother_server/transition_event | Type: lifecycle_msgs/msg/TransitionEvent | Count: 0 | Serialization Format: cdr
+                   Topic: /local_costmap/costmap_raw | Type: nav2_msgs/msg/Costmap | Count: 520 | Serialization Format: cdr
+                   Topic: /robot_description | Type: std_msgs/msg/String | Count: 1 | Serialization Format: cdr
+                   Topic: /tf_static | Type: tf2_msgs/msg/TFMessage | Count: 1 | Serialization Format: cdr
+                   Topic: /local_costmap/local_costmap/transition_event | Type: lifecycle_msgs/msg/TransitionEvent | Count: 0 | Serialization Format: cdr
+                   Topic: /local_costmap/costmap | Type: nav_msgs/msg/OccupancyGrid | Count: 520 | Serialization Format: cdr
+                   Topic: /initialpose | Type: geometry_msgs/msg/PoseWithCovarianceStamped | Count: 1 | Serialization Format: cdr
+                   Topic: /global_costmap/costmap_raw | Type: nav2_msgs/msg/Costmap | Count: 146 | Serialization Format: cdr
+                   Topic: /clock | Type: rosgraph_msgs/msg/Clock | Count: 3165 | Serialization Format: cdr
+                   Topic: /received_global_plan | Type: nav_msgs/msg/Path | Count: 1438 | Serialization Format: cdr
+                   Topic: /tf | Type: tf2_msgs/msg/TFMessage | Count: 16903 | Serialization Format: cdr
+                   Topic: /bond | Type: bond/msg/Status | Count: 54833 | Serialization Format: cdr
+                   Topic: /controller_server/transition_event | Type: lifecycle_msgs/msg/TransitionEvent | Count: 0 | Serialization Format: cdr
+                   Topic: /waypoints | Type: visualization_msgs/msg/MarkerArray | Count: 9 | Serialization Format: cdr
+                   Topic: /rosout | Type: rcl_interfaces/msg/Log | Count: 418 | Serialization Format: cdr
+                   Topic: /global_costmap/voxel_grid | Type: nav2_msgs/msg/VoxelGrid | Count: 292 | Serialization Format: cdr
+                   Topic: /diagnostics | Type: diagnostic_msgs/msg/DiagnosticArray | Count: 632 | Serialization Format: cdr
+                   Topic: /events/write_split | Type: rosbag2_interfaces/msg/WriteSplitEvent | Count: 0 | Serialization Format: cdr
+                   Topic: /global_costmap/global_costmap/transition_event | Type: lifecycle_msgs/msg/TransitionEvent | Count: 1 | Serialization Format: cdr
+                   Topic: /clicked_point | Type: geometry_msgs/msg/PointStamped | Count: 0 | Serialization Format: cdr
+                   Topic: /plan_smoothed | Type: nav_msgs/msg/Path | Count: 0 | Serialization Format: cdr
+                   Topic: /cmd_vel | Type: geometry_msgs/msg/Twist | Count: 2907 | Serialization Format: cdr
+                   Topic: /imu | Type: sensor_msgs/msg/Imu | Count: 62994 | Serialization Format: cdr
+                   Topic: /joint_states | Type: sensor_msgs/msg/JointState | Count: 9308 | Serialization Format: cdr
+                   Topic: /local_costmap/costmap_updates | Type: map_msgs/msg/OccupancyGridUpdate | Count: 0 | Serialization Format: cdr
+
