@@ -1,5 +1,5 @@
-# PAI-final-report
-PAI final report(PAI応用1_最終課題)
+# PAI-Adv1-Repo
+PAI-Adv1-Repo (PAI応用1_最終課題)
 
 ## 概要
 ### フォルダ構成
