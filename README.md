@@ -2,13 +2,16 @@
 PAI-Adv1-Repo (PAI応用1_最終課題)
 
 ## 概要
+### 設定したタスク
+A地点からB地点までロボットを移動する（シミュレータを使用）
+
 ### フォルダ構成
 ・navigation  
-実行時に取得したnoitagivanナビゲーションファイル（my_map.pgm, my_map.yaml）
+実行時に取得したナビゲーションファイル（my_map.pgm, my_map.yaml）
 およびros2bagの集計情報（ros2bag_info.txt）
 
 ・bot_prototype  
-draftの.sdfや.yaml、.rvizなどがある（評価段階で使用したもので、タスク実行では使用しない）
+draftの.sdfや.yaml、.rvizなどがある（評価段階で作成使用したもので、タスク実行では使用しない）
 
 ### 使用環境
 (1) 基本構成  
